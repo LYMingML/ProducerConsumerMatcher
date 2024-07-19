@@ -1,5 +1,6 @@
 # 基于InternLM实现的信息撮合工具
 
+项目挂在[大模型实战营](https://github.com/JJ-MM-LL/InternLM-CustomerService?tab=readme-ov-file)下面
 1. 需求
    每个用户都可以上传某个物品信息，可以任意描述该物品。
    每个用户都可以需求某类物品，可以任意描述该需求，推荐最相关物品。
